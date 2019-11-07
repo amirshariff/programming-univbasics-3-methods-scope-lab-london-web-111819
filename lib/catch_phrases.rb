@@ -12,5 +12,8 @@ def toadstool
 end
 
 toadstool
+
+def link 
+  
   
  
