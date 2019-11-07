@@ -4,5 +4,5 @@ def mario
   puts phrase
 end
 
-Mario
+mario
  
