@@ -25,5 +25,5 @@ def any_phrase (laptop)
   puts laptop
 end
 
-any_phrase ()
+any_phrase ("mike")
  
