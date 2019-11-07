@@ -15,7 +15,7 @@ toadstool
 
 def link 
   mac = "It's Dangerous To Go Alone! Take This"
-  puts x
+  puts mac
 end
 
 mac
