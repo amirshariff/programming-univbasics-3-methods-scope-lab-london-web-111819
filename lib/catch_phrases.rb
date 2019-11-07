@@ -20,7 +20,10 @@ end
 
 link
 
-def any_phrase {}
-  puts "Do A Barrel Roll!"
-  
+def any_phrase (laptop)
+  laptop = "Do A Barrel Roll!"
+  puts laptop
+end
+
+any_phrase ()
  
