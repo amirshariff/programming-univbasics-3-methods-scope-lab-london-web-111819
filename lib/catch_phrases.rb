@@ -18,6 +18,6 @@ def link
   puts mac
 end
 
-mac
+link
   
  
